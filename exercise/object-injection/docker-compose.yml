@@ -1,0 +1,12 @@
+version: '3'
+services:
+  web:
+    build: ./nginx
+    ports:
+      - "127.0.0.1:5000:80"
+    depends_on:
+      - php
+  php:
+    build: ./php
+    volumes:
+      - ./src:/var/www/html

@@ -1,5 +1,8 @@
 # 趣味と実益のための著名なOSSライブラリ起因の脆弱性の探求
-[セキュリティ・キャンプ全国大会2021オンライン](https://www.ipa.go.jp/jinzai/camp/2021/zenkoku2021_program_list.html#list_b5)
+セキュリティ・キャンプ 全国大会 2021 オンラインで実施された講義中で用いた演習のためのファイルや、事前課題とその解説のためのファイルを配布するためのリポジトリです。
+
+- [講義スライド](https://speakerdeck.com/tkmru/seccamp2021-b5)
+- [講義紹介ページ](https://www.ipa.go.jp/jinzai/camp/2021/zenkoku2021_program_list.html#list_b5)
 
 ## 講義概要
 
